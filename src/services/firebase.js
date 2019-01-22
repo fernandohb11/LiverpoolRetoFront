@@ -8,6 +8,7 @@ var config = {
   storageBucket: "lolo11.appspot.com",
   messagingSenderId: "321597466820"
 };
+
 firebase.initializeApp(config);
 
 export default firebase

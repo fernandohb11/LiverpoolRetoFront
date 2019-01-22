@@ -12,3 +12,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.form-detail{
+  width: 50%;
+  height: 190%;
+  margin: 100px auto;
+  min-height: 60vh;
+  padding: 40px 0;
+  
+
+}
+.form-detail input{
+  margin: 20px 0;
+  width: 500px;
+  height: 30px;
+}
